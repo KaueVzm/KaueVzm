@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Kauê 🖐️
-<p>Adoro tecnologia e adoro programar, especialmente no Back-End. Estou sempre em busca de desafios e oportunidades para aprender e crescer na área.</p>
+<p>Adoro tecnologia e amo programar, especialmente no Back-End. Estou sempre em busca de desafios e oportunidades para aprender e crescer na área.</p>
 
 <a href="https://github.com/KaueVzm">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KaueVzm&theme=dark" />
